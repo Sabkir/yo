@@ -1,0 +1,44 @@
+Centros de Datos
+│
+├── Definición
+│   ├── Instalaciones físicas que alojan equipos informáticos y sistemas de almacenamiento de datos.
+│   └── Proveen servicios de procesamiento, almacenamiento y distribución de datos.
+│
+├── Componentes
+│   ├── Hardware
+│   │   ├── Servidores
+│   │   ├── Almacenamiento
+│   │   ├── Redes
+│   │   └── Refrigeración
+│   │
+│   └── Software
+│       ├── Sistemas operativos
+│       ├── Software de gestión
+│       └── Aplicaciones específicas
+│
+├── Tipos
+│   ├── Tier 1: Básico
+│   ├── Tier 2: Redundancia básica
+│   ├── Tier 3: Redundancia N+1
+│   └── Tier 4: Redundancia 2N+1
+│
+├── Ubicación
+│   ├── Urbanos
+│   ├── Suburbanos
+│   └── Remotos
+│
+├── Seguridad
+│   ├── Acceso físico restringido
+│   ├── Control de acceso biométrico
+│   └── Monitoreo constante
+│
+├── Eficiencia Energética
+│   ├── Sistemas de enfriamiento eficientes
+│   ├── Uso de energías renovables
+│   └── Diseño de infraestructura energéticamente eficiente
+│
+└── Tendencias
+    ├── Edge Computing
+    ├── Virtualización
+    ├── Computación en la nube
+    └── Automatización y Orquestación
